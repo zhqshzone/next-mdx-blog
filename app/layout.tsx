@@ -39,10 +39,9 @@ export default function RootLayout({
 
 function Footer() {
   const links = [
-    { name: '@johnsmith', url: 'https://x.com/johnsmith' },
-    { name: 'youtube', url: 'https://www.youtube.com/@johnsmith' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/johnsmith' },
-    { name: 'github', url: 'https://github.com/johnsmith' }
+    { name: 'wechat@L_Latticework', url: 'https://mp.weixin.qq.com/s/vIrxPxugyib8SfYUCCQFmw' },
+    { name: '雪球', url: 'https://www.xueqiu.com/u/4281043196' },
+    { name: '小红书', url: 'https://xhslink.cn/o/1eu4Rsc5MPl' },   
   ];
 
   return (
