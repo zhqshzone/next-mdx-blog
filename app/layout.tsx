@@ -11,8 +11,8 @@ export const metadata: Metadata = {
     canonical: '/'
   },
   title: {
-    default: 'John Smith',
-    template: '%s | John Smith'
+    default: 'L_Latticework',
+    template: '%s | L_Latticework'
   },
   description: 'My portfolio, blog, and personal website.'
 };
